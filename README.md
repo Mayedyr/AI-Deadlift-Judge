@@ -160,14 +160,6 @@ These files are therefore required separately to reproduce the original training
 
 The system is a research prototype rather than a replacement for competition referees. Important limitations include the relatively small and imbalanced training set, sensitivity of two-dimensional pose estimation to camera angle and occlusion, and the fact that body pose alone does not directly encode the bar path, bar-to-thigh contact, grip control, or referee command timing used in some IPF rules.
 
-## Citation
-
-If you use this repository in academic work, please cite the accompanying project report until a conference-paper citation is available:
-
-```text
-Majid Alredha, "AI Deadlift Judge: Automated Detection of Technical Rule Violations in Powerlifting," final-year project report, University of Birmingham Dubai, 2025.
-```
-
 ## Licence
 
 The repository code is available under the [MIT License](LICENSE). Third-party packages and pretrained YOLO models are subject to their respective licences.
